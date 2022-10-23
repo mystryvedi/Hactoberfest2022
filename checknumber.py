@@ -7,3 +7,5 @@ if a<0:
     print("negative")
 if a==0:
     print("Zero")
+
+    
